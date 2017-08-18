@@ -2,7 +2,7 @@
 ## Research Scientist
 ## IBM Research, India
 
-<img style="float: right;" src="../pictures/monika.jpg">
+<img style="float: left;" src="../pictures/monika.jpg">
 
 Hi!
 
