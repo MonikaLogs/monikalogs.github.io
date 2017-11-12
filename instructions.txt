@@ -1,0 +1,11 @@
+1. _layouts - > default.html is the basic index page. you can change this html page as required.
+2. all the other pages are .md files in "blogs" folder. Here, you create md files and not .html files. Please google the basic syntax for writing .md files.
+3. Once you have made the edits, please do the following:
+
+i. open terminal in the "monikalogs.github.io" folder
+ii. git add .
+iii. git commit -m "message"
+iv. git pull
+v. git push
+
+after pushing the git code.. wait for 2-3 mins and refresh your page. ALl the updates will be done.
